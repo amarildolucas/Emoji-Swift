@@ -11758,8 +11758,6 @@ public enum Emoji: CaseIterable {
             return ["fondue"]
         case .teapot:
             return ["teapot"]
-        default:
-            return [""]
         }
     }
 
